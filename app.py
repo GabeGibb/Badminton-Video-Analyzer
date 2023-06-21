@@ -48,4 +48,4 @@ def upload_file():
     <p>Tip: short stationary videos with badminton as the focus will work best</p>
     '''
 
-app.run(host='0.0.0.0')
+# app.run(host='0.0.0.0')
