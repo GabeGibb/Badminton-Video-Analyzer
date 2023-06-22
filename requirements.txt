@@ -34,3 +34,5 @@ werkzeug==2.2.2
     # via
     #   -r requirements.in
     #   flask
+
+Gunicorn
