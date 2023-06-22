@@ -10,4 +10,7 @@ https://github.com/GabeGibb/Badminton-Video-Analyzer/assets/97437160/ea79e1a0-38
 
 # Website 
 
+
+https://badminton-zcxb.onrender.com/ (Host is incredibly slow and may time out)
+
 ![image](https://github.com/GabeGibb/Badminton-Video-Analyzer/assets/97437160/e42b0662-de22-4b77-ad1e-02d6ff4d8340)
