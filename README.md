@@ -1,5 +1,5 @@
 # Badminton-Video-Analyzer
-
+- Original Repo: https://github.com/KevinWasTak3n/Badminton
 This was a project that was created collaboritavely with my student Kevin. This Flask app allows input badminton videos and returns badminton videos that draw boxes around the players and the court. The backend uses AI
 image recognition, as well as OpenCV computer vision to accomplish this task. 
 
